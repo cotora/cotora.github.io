@@ -1,0 +1,49 @@
+#icon{
+    border-radius:50%;
+    width:180px;
+    height:180px;
+}
+
+h1{
+    margin:0;
+    padding:20px 0;
+    font-size:60px;
+    text-shadow:3px 3px 1px #F2F2F2;
+}
+
+h2{
+    font-size:20px;
+    line-height:1;
+    letter-spacing: 1px;
+}
+
+
+html{
+font-size:10px;
+font-family: 'Source Serif 4', sans-serif;
+/* background-color:#FEFDE1; */    
+background-image:url(../images/icon_stripe.png);
+background-size:200px;
+}
+
+body{
+    width:800px;
+    margin:0 auto;
+    background-color: teal;
+    padding: 0 20px 20px 20px;
+    border:5px solid black;
+}
+
+header{
+    text-align: center;
+}
+
+p,li{
+    font-size:16px;
+    line-height:2;
+    letter-spacing:1px;
+}
+
+footer{
+    background-color:#0A739D;
+}
