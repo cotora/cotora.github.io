@@ -20,17 +20,16 @@ html{
 font-size:10px;
 font-family: 'Source Serif 4', sans-serif;
 /* background-color:#FEFDE1; */    
-background: rgb(249,45,253);
-background: linear-gradient(0deg, rgba(249,45,253,1) 0%, rgba(34,193,195,1) 100%);
+background: rgb(45,253,54);
+background: linear-gradient(0deg, rgba(45,253,54,1) 0%, rgba(214,223,57,1) 100%);
 height:100vh;
 }
 
 body{
     width:800px;
     margin:0 auto;
-    background-color: teal;
+    background-color: #fffded;
     padding: 0 20px 20px 20px;
-    border:5px ridge rgb(219, 211, 102);
 }
 
 header{
