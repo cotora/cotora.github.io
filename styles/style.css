@@ -13,8 +13,6 @@ h1{
 
 h2{
     font-size:30px;
-    line-height:1;
-    letter-spacing: 1px;
 }
 
 
@@ -45,8 +43,10 @@ ul{
 
 li{
     font-size:22px;
-    line-height:2;
-    letter-spacing:1px;
+}
+
+p{
+    font-size:22px;
 }
 
 footer{
