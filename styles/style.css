@@ -12,7 +12,7 @@ h1{
 }
 
 h2{
-    font-size:20px;
+    font-size:30px;
     line-height:1;
     letter-spacing: 1px;
 }
@@ -39,8 +39,12 @@ header{
     text-align: center;
 }
 
-p,li{
-    font-size:16px;
+ul{
+    list-style-type:square;
+}
+
+li{
+    font-size:22px;
     line-height:2;
     letter-spacing:1px;
 }
