@@ -93,3 +93,8 @@ a {
     height:40px;
     margin:5px;
   }
+
+  .a_ref{
+    -webkit-tap-highlight-color:rgba(0,0,0,0);
+    cursor:pointer;
+  }
