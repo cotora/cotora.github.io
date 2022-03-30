@@ -53,6 +53,7 @@ footer{
     background-color:#0A739D;
 }
 
+/*
 a {
     outline: none;
     text-decoration: none;
@@ -81,7 +82,14 @@ a {
     background: #265301;
     color: #CDFEAA;
   }
+  */
 
-  .interest,.reference{
+  .interest{
     margin-left:10px;
+  }
+
+  .icon_ref{
+    width:40px;
+    height:40px;
+    margin:5px;
   }
