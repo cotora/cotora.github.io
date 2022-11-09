@@ -76,9 +76,8 @@ footer{
     border-bottom: 1px solid;
   }
   
+
   .text-link:active {
-    background: #265301;
-    border-radius: 5px;
     color: #CDFEAA;
   }
   
