@@ -28,7 +28,7 @@ color:#efebf0;
 
 body{
     margin:0 auto;
-    background-color: #221824;
+    background-color: #261829;
     padding: 0 20px 20px 20px;
 }
 
@@ -61,24 +61,21 @@ footer{
   }
   
   .text-link:link {
-    color: #265301;
+    color: #a69f6f;
   }
   
   .text-link:visited {
-    color: #437A16;
+    color: #a69f6f;
   }
   
   .text-link:focus {
+    color:#bfb880;
     border-bottom: 1px solid;
   }
   
   .text-link:hover {
+    color:#bfb880;
     border-bottom: 1px solid;
-  }
-  
-
-  .text-link:active {
-    color: #CDFEAA;
   }
   
 
