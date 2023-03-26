@@ -37,6 +37,11 @@ header{
     text-align: center;
 }
 
+main{
+	display:flex;
+	justify-content:center;
+}
+
 ul{
     list-style-type:square;
 }
